@@ -11,12 +11,13 @@ ul{
 a{
 	text-decoration: none;
 }
-html body{
-	max-width: 100%;
-	overflow-x: hidden;
-}
+
 header{
 	background-color: #0020F4;
+	align-items: center;
+	justify-content: center;
+	max-width: 1920px;
+	max-height: 1080px;
 	padding: 30px;
 	position: fixed;
 	width: 100%;
@@ -31,12 +32,12 @@ header a > img{
 
 .navigation{
 	font-size: 16px;
-	margin-top: -100px;
-	margin-left:550px;
+	margin-top: -90px;
+	margin-left:650px;
 }
 .navigation
 .navigation-li{
-	font-size: 16px;
+
 	display: inline-block;
 	margin-left: ;
 }
@@ -66,8 +67,12 @@ header a > img{
 	margin-bottom: 203px;
 }
 .secimg{
-	max-width: 948px;
-	max-height: 800px;
-	padding-top: 100px;
+	max-width:948px;
+	max-height: 700px;
+	margin-top: 100px;
 	padding-left: 1px;
+}
+.aboutus{
+	text-align: center;
+	color: #171717;
 }
