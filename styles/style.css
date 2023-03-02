@@ -84,28 +84,53 @@ header a > img{
 .text{
 	position: relative;
 	max-width: 463px;
+	box-sizing: border-box;
 }
-h2{
-	text-align: center;
+.title{
+
 	color: #171717;
 	position: absolute;
 	margin-top: 98px;
 	margin-left: 260px
 }
-.aboutus p{
+.aboutus {
 	text-size-adjust: 16px;
 	text-align: center;
 	color: #171717;
 	position: absolute;
-	margin-top: 180px;
+	margin-top: 200px;
 	margin-left: 240px;
+}
+.title p{
+	box-sizing: border-box;
 }
 span{
 	color: #0A22F4;
 }
 .anchor
 .smallimg img{
+	width: 100%;
+	margin-top: 200px;
+	margin-left: 550px;
+	box-shadow: 10px 10px 10px #0A22F4; inset;
+	transform: translate(10px);
+}
 
+.services{
+	position: relative;
+	max-width: 463px;
+	box-sizing: border-box;
+}
+
+.secondlayer{
+	color: #171717;
+	position: absolute;
+	margin-top: 394px;
+	margin-left: 1095px;
+}
+.secondlayer p{
+	
+	
 }
 
 
