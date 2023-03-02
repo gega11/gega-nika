@@ -59,20 +59,79 @@ header a > img{
 		padding-bottom: 18px;
 		padding-left: 43px;
 }
+.container{
+	background-color: #0020F4;
+}
+
+.container
 .firstimg{
 	max-width: 707px;
 	max-height: 597px;
-	margin-top: 175px;
-	margin-right: 25px;
+	width:30%;
+	margin-top: 280px;
+	margin-left: 240px;
 	margin-bottom: 203px;
 }
+.container
 .secimg{
 	max-width:948px;
 	max-height: 700px;
-	margin-top: 100px;
-	padding-left: 1px;
+	width: 100%;
+	margin-top: 200px;
+	margin-bottom: 65px;
+	padding-left: 25px;
 }
-.aboutus{
+.text{
+	position: relative;
+	max-width: 463px;
+	box-sizing: border-box;
+}
+.title{
+
+	color: #171717;
+	position: absolute;
+	margin-top: 98px;
+	margin-left: 260px
+}
+.aboutus {
+	text-size-adjust: 16px;
 	text-align: center;
 	color: #171717;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 240px;
 }
+.title p{
+	box-sizing: border-box;
+}
+span{
+	color: #0A22F4;
+}
+.anchor
+.smallimg img{
+	width: 100%;
+	margin-top: 200px;
+	margin-left: 550px;
+	box-shadow: 10px 10px 10px #0A22F4; inset;
+	transform: translate(10px);
+}
+
+.services{
+	position: relative;
+	max-width: 463px;
+	box-sizing: border-box;
+}
+
+.secondlayer{
+	color: #171717;
+	position: absolute;
+	margin-top: 394px;
+	margin-left: 1095px;
+}
+.secondlayer p{
+	
+	
+}
+
+
+
