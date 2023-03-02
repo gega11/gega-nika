@@ -125,13 +125,22 @@ span{
 .secondlayer{
 	color: #171717;
 	position: absolute;
+	box-sizing: border-box;
 	margin-top: 394px;
 	margin-left: 1095px;
 }
 .secondlayer p{
-	
-	
+	max-width: 463px;	
 }
+.services
+.jaluzi img{
+	width: 100%;
+	margin-top: 614px;
+	margin-left: 250px;
+	box-shadow: 10px 10px 10px #0A22F4; inset;
+	transform: translate(10px);
+}
+
 
 
 
